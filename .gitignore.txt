@@ -1,3 +1,2 @@
-node_modules
-
-something_to-ignore.txt
+# Node
+/node_modules
